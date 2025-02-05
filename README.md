@@ -26,6 +26,12 @@ Consists of the following functionality:
 
 ## 2. Installation
 
+Compatible with:
+* Windows
+* MacOS
+* Linux-based OS
+
+
 2.1 Ensure you already have a Python interpreter installed. You may download it from [here](https://www.python.org/downloads/).
 
 2.2 Open the Command Terminal relevant to your operating system and navigate to the directory
@@ -37,11 +43,10 @@ Consists of the following functionality:
     git clone https://github.com/CueChaotic/Bookstore_db_app.git
 
 2.4 A new directory called Bookstore_db_app should now appear within your current directory.
-    Navigate into this new folder in your terminal.
 
 2.5 Set up and activate a Virtual Environment.
 
-2.6 Navigate into the Bookstore_db_app directory:
+2.6 Navigate into the Bookstore_db_app directory in your terminal:
 
     cd Bookstore_db_app
 
@@ -51,11 +56,10 @@ Consists of the following functionality:
 
 ## 3. Usage
 
-Compatible with:
-* Windows
-* MacOS
-* Linux-based OS
+Run the below command in your terminal to initiate the program:
+
+python Bookstore_db_app.py
 
 ## 4. Credits
 
-Build entirely done by Patrick Hammond a.k.a. CueChaotic
+Built entirely by Patrick Hammond a.k.a. CueChaotic
