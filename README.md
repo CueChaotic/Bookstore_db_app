@@ -31,7 +31,8 @@ Consists of the following functionality:
 
 2.2 Clone this Git repository to your chosen local directory by running this command in your
     terminal:
-    > git clone https://github.com/CueChaotic/Bookstore_db_app.git
+    
+  > git clone https://github.com/CueChaotic/Bookstore_db_app.git
 
 2.3 A new directory called Bookstore_db_app should now appear within your current directory.
     Navigate into this new folder in your terminal.
