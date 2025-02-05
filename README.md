@@ -26,11 +26,11 @@ Consists of the following functionality:
 
 ## 2. Installation
 
-2.1 Open the Command Terminal relevant to your operating system and navigate to the directory
-    you would like to use for the project files.
-
-2.2 Clone this Git repository to your chosen local directory by running this command in your
-    terminal:
+ 2.1 Open the Command Terminal relevant to your operating system and navigate to the directory
+     you would like to use for the project files.
+     
+ 2.2 Clone this Git repository to your chosen local directory by running this command in your
+ terminal:
    
     git clone https://github.com/CueChaotic/Bookstore_db_app.git
 
