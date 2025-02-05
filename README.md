@@ -57,7 +57,7 @@ Compatible with:
 
 Run the below command in your terminal to initiate the program:
 
-`python Bookstore_program.py`
+'''python Bookstore_program.py'''
 
 Note: Use python3 if on Linux
 
