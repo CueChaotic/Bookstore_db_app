@@ -58,8 +58,10 @@ Compatible with:
 
 Run the below command in your terminal to initiate the program:
 
-> python Bookstore_db_app.py
+  python Bookstore_program.py
+
+Note: Use python3 if on Linux
 
 ## 4. Credits
 
-Built entirely by Patrick Hammond a.k.a. CueChaotic
+Built entirely by CueChaotic
