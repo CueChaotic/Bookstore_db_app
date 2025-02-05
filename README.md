@@ -31,7 +31,6 @@ Compatible with:
 * MacOS
 * Linux-based OS
 
-
 2.1 Ensure you already have a Python interpreter installed. You may download it from [here](https://www.python.org/downloads/).
 
 2.2 Open the Command Terminal relevant to your operating system and navigate to the directory
@@ -58,7 +57,7 @@ Compatible with:
 
 Run the below command in your terminal to initiate the program:
 
-  python Bookstore_program.py
+`python Bookstore_program.py`
 
 Note: Use python3 if on Linux
 
