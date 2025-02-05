@@ -58,7 +58,7 @@ Compatible with:
 
 Run the below command in your terminal to initiate the program:
 
-python Bookstore_db_app.py
+> python Bookstore_db_app.py
 
 ## 4. Credits
 
