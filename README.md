@@ -75,9 +75,10 @@ This will create a virtual environment directory called "projenv".
     **NOTE**: The virtual env needs to be active as it contains the necessary module(s) to run the
     program. Once you are finished running the program, you can deactivate the virtual env by
     running the below in your terminal:
-        ```
-        deactivate
-        ```
+
+  ```
+  deactivate
+  ```
 
 2.6 Navigate into the Bookstore_db_app directory in your terminal:
 
